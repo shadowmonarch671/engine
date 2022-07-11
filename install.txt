@@ -1,0 +1,15 @@
+PHP Search Version 0.0.5
+By James Lovejoy jameslovejoy1@googlemail.com
+
+1. Create a MySQL database
+2. Edit settings.php with your database dietails
+3. Upload all files to your server
+4. Browse to http://path_to_php_search/install.php
+5. Follow Steps to install
+6. Open admin.php and edit username and password.
+7. Delete install.php and install2.php
+
+Next you need to add links to the database.
+
+1. Go to http://path_to_php_search/admin.php
+ 
